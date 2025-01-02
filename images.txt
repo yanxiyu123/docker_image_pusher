@@ -1,1 +1,1 @@
-consul
+docker.io/library/consul:1.15.4
