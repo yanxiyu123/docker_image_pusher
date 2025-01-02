@@ -1,1 +1,1 @@
-docker.io/library/grafana
+grafana/grafana
