@@ -1,1 +1,1 @@
-grafana/grafana
+docker.io/calico/apiserver:v3.22.5
