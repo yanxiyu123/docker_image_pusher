@@ -1,1 +1,1 @@
-docker.io/envoyproxy/envoy:v1.23.7
+julius/prometheus-demo-service:0.12.0
