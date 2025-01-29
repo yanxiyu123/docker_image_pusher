@@ -1,1 +1,1 @@
-docker.io/calico/apiserver:v3.22.5
+docker.io/envoyproxy/envoy:v1.23.7
