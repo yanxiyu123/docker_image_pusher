@@ -1,1 +1,1 @@
-prom/altermanager:v0.26.0
+prom/alertmanager:v0.26.0
