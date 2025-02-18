@@ -1,1 +1,1 @@
-grafana/grafana:10.4.15
+prom/altermanager:v0.26.0
