@@ -1,1 +1,1 @@
-prom/alertmanager:v0.26.0
+gitlab/gitlab-ce:16.6.0
