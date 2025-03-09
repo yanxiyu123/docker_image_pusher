@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:latest
